@@ -1,0 +1,12 @@
+# Dépendances Python de Rocket Queen / Lucky Jet
+# Installation : python -m pip install -r requirements.txt
+Pillow
+pytesseract
+numpy
+pyTelegramBotAPI
+Flask
+
+# Backends ML facultatifs (le bot conserve un mode de repli sans eux)
+scikit-learn
+xgboost
+lightgbm
